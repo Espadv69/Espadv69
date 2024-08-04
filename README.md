@@ -17,7 +17,7 @@
 
 ## 🌟 Proyectos Destacados
 
-En proceso
+**Tik Tak Toe**: Juego de tres en raya hecho con React
 
 ## 📫 Contacto
 
