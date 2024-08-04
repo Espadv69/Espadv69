@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un README que destaca tus habilidades en programación de manera clara y atractiva:
-
----
 
 # 👋 ¡Hola! Soy [Espadv]
 
