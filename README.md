@@ -17,7 +17,8 @@
 
 ## 🌟 Proyectos Destacados
 
-**Tik Tak Toe**: Juego de tres en raya hecho con React
+**TikTakToe_React**: Juego de tres en raya hecho con React
+**Escuela_Online**: Un proyecto que hice en un curso de metodologia. El proyecto trata de una página web, en la que eres un alumno, para acceder a los privilegios de profesor debereís cambiar del js, el nombre y la contraseña.
 
 ## 📫 Contacto
 
