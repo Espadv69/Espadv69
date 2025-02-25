@@ -25,6 +25,6 @@
 Si deseas colaborar en un proyecto, hacerme una pregunta o simplemente conectar, no dudes en ponerte en contacto conmigo:
 
 - **Email**: (aitorjob69@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/espadv)
+- **LinkedIn**: (https://www.linkedin.com/in/aitor-díaz-282a8a350)
 - **GitHub**: (https://github.com/Espadv69)
 
