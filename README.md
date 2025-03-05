@@ -22,6 +22,7 @@
 - **Rock-Paper-Scissors-JS**: El juego de piedra, papel y tijera hecho con JavaScript Vanilla.
 - **PassCraft**: Un generador de contraseñas seguras.
 - **Calorie-Counter**: Una aplicación en la que puedes guardar las comidas y calorias diarias. Hecha con react, contiene animaciones que hace que se vea más dinámica la aplicación.
+- **Taskify**: Una aplicación full-stack, en la que puedes guardar tus notas, editarlas y borrarlas.
 
 ## 📫 Contacto
 
