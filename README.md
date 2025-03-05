@@ -20,6 +20,7 @@
 - **Memory-Match-Game**: Juego de emparejar cartas, creado con JavaScript Vanilla.
 - **PokeAitor**: API de pokémon donde se muestran algunos pokémons y por cada uno se abre un modal con sus estadísticas.
 - **Rock-Paper-Scissors-JS**: El juego de piedra, papel y tijera hecho con JavaScript Vanilla.
+- **PassCraft**: Un generador de contraseñas seguras.
 
 ## 📫 Contacto
 
