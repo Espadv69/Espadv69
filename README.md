@@ -18,7 +18,7 @@
 - **TicTacToe_React**: Juego de tres en raya hecho con React
 - **Character-Creator**: Una aplicación donde puedes crear un personaje de rol, y ver los personajes guardados, usando React.
 - **Memory-Match-Game**: Juego de emparejar cartas, creado con JavaScript Vanilla.
-
+- **PokeAitor**: API de pokémon donde se muestran algunos pokémons y por cada uno se abre un modal con sus estadísticas.
 
 ## 📫 Contacto
 
