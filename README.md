@@ -1,11 +1,11 @@
 
-# 👋 ¡Hola! Soy Aitor, mi alias es espadv.
+# 👋 ¡Hola! Soy Aitor, también conocido como Espadv.
 
-¡Bienvenido a mi perfil! Soy un apasionado desarrollador de software con experiencia en una variedad de lenguajes de programación. Me encanta crear soluciones elegantes y eficientes que resuelvan problemas reales y mejoren la experiencia del usuario. Aquí te cuento un poco más sobre las tecnologías con las que trabajo y en qué me especializo.
+¡Bienvenido a mi perfil! Soy un apasionado desarrollador de software con experiencia en múltiples lenguajes de programación. Me encanta crear soluciones elegantes y eficientes que resuelvan problemas reales y mejoren la experiencia del usuario.
 
 ## 🚀 Habilidades y Tecnologías
 
-### 🌟 Lenguajes de Programación FrontEnd
+### 🌟 Frontend
 
 - **JavaScript (JS)**: Experto en crear aplicaciones interactivas y dinámicas en la web. JavaScript es mi herramienta principal para la programación del lado del cliente y para el desarrollo de aplicaciones web modernas.
 - **TypeScript**: Con TypeScript, llevo la programación en JavaScript al siguiente nivel al agregar tipado estático y características avanzadas, lo que resulta en un código más seguro y mantenible.
@@ -15,14 +15,15 @@
 
 ## 🌟 Proyectos Destacados
 
-- **TicTacToe_React**: Juego de tres en raya hecho con React
-- **Character-Creator**: Una aplicación donde puedes crear un personaje de rol, y ver los personajes guardados, usando React.
-- **Memory-Match-Game**: Juego de emparejar cartas, creado con JavaScript Vanilla.
-- **PokeAitor**: API de pokémon donde se muestran algunos pokémons y por cada uno se abre un modal con sus estadísticas.
-- **Rock-Paper-Scissors-JS**: El juego de piedra, papel y tijera hecho con JavaScript Vanilla.
-- **PassCraft**: Un generador de contraseñas seguras.
-- **Calorie-Counter**: Una aplicación en la que puedes guardar las comidas y calorias diarias. Hecha con react, contiene animaciones que hace que se vea más dinámica la aplicación.
-- **Taskify**: Una aplicación full-stack, en la que puedes guardar tus notas, editarlas y borrarlas.
+- **TicTacToe_React**: Juego de tres en raya desarrollado con React.
+- **Character-Creator**: Aplicación para crear y gestionar personajes de rol en React.
+- **Memory-Match-Game**: Juego de emparejamiento de cartas hecho con JavaScript Vanilla.
+- **PokeAitor**: API de Pokémon con un modal de estadísticas para cada criatura.
+- **Rock-Paper-Scissors-JS**: Juego de piedra, papel y tijera en JavaScript Vanilla.
+- **PassCraft**: Generador de contraseñas seguras.
+- **Calorie-Counter**: Aplicación para registrar comidas y calorías diarias, desarrollada en React con animaciones dinámicas.
+- **Taskify**: Aplicación full-stack para gestionar notas (crear, editar y eliminar).
+- **Unit-Converter-React**: Conversor de unidades interactivo hecho con React.
 
 ## 📫 Contacto
 
