@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! Soy Aitor, también conocido como Espadv.
 
-¡Bienvenido a mi perfil! Soy un apasionado desarrollador de software con experiencia en múltiples lenguajes de programación. Me encanta crear soluciones elegantes y eficientes que resuelvan problemas reales y mejoren la experiencia del usuario.
+¡Bienvenido a mi GitHub! 🚀✨ Espero que encuentres algo interesante por aquí. Te deseo mucho éxito, aprendizaje y diversión en cada línea de código. ¡A programar! 💻🔥
 
 ## 🚀 Habilidades y Tecnologías
 
