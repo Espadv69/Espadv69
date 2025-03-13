@@ -7,11 +7,17 @@
 
 ### 🌟 Frontend
 
-- **JavaScript (JS)**: Experto en crear aplicaciones interactivas y dinámicas en la web. JavaScript es mi herramienta principal para la programación del lado del cliente y para el desarrollo de aplicaciones web modernas.
-- **TypeScript**: Con TypeScript, llevo la programación en JavaScript al siguiente nivel al agregar tipado estático y características avanzadas, lo que resulta en un código más seguro y mantenible.
-- **HTML**: Especialista en estructurar el contenido web. HTML es la base de todas las páginas web que diseño, asegurando una estructura semántica y accesible.
-- **CSS**: Me encargo de darle estilo y presentación a las páginas web, utilizando CSS para crear interfaces visualmente atractivas y adaptativas a diferentes dispositivos.
-- **Tailwind**: Utilizo Tailwind CSS para diseñar interfaces de usuario altamente personalizables y eficientes, aplicando estilos de manera rápida y flexible mediante una aproximación basada en utilidades
+- **JavaScript (JS)**
+- **TypeScript**
+- **React**
+- **HTML**
+- **CSS**
+- **Tailwind**
+
+### 🌟 Backend
+
+- **NodeJs**
+- **Express**
 
 ## 🌟 Proyectos Destacados
 
