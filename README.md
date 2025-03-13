@@ -19,7 +19,7 @@
 - **NodeJs**
 - **Express**
 
-## 🌟 Proyectos Destacados
+## 🥇 Proyectos Destacados
 
 - **TicTacToe_React**: Juego de tres en raya desarrollado con React.
 - **Character-Creator**: Aplicación para crear y gestionar personajes de rol en React.
