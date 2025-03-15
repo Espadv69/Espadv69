@@ -18,6 +18,7 @@
 
 - **NodeJs**
 - **Express**
+- **MongoDB**
 
 ## 🥇 Proyectos Destacados
 
