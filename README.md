@@ -31,6 +31,7 @@
 - **Calorie-Counter**: Aplicación para registrar comidas y calorías diarias, desarrollada en React con animaciones dinámicas.
 - **Taskify**: Aplicación full-stack para gestionar notas (crear, editar y eliminar).
 - **Unit-Converter-React**: Conversor de unidades interactivo hecho con React.
+- **useState-Basic**: Proyectos introductorios con useState para entender el estado en React.
 
 ## 📫 Contacto
 
