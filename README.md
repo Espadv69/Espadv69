@@ -32,6 +32,7 @@
 - **Taskify**: Aplicación full-stack para gestionar notas (crear, editar y eliminar).
 - **Unit-Converter-React**: Conversor de unidades interactivo hecho con React.
 - **useState-Basic**: Proyectos introductorios con useState para entender el estado en React.
+- **useState-Intermediate**: Proyectos intermedios aplicando useState en distintos contextos.
 
 ## 📫 Contacto
 
