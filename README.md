@@ -24,29 +24,29 @@
 
 ## 🥇 Proyectos Destacados
 
-- **TicTacToe_React**: Juego de tres en raya desarrollado con React.
- 
-- **Character-Creator**: Aplicación para crear y gestionar personajes de rol en React.
+### 🎮 Juegos  
+- **TicTacToe_React** 🎲 – Juego de tres en raya desarrollado con React.  
+- **Memory-Match-Game** 🃏 – Juego de emparejamiento de cartas hecho con JavaScript Vanilla.  
+- **Rock-Paper-Scissors-JS** ✊✋✌ – Juego clásico de piedra, papel y tijera en JavaScript.  
 
-- **Memory-Match-Game**: Juego de emparejamiento de cartas hecho con JavaScript Vanilla.
+### 🚀 Aplicaciones Interactivas  
+- **Character-Creator** 🧝‍♂️ – Aplicación para crear y gestionar personajes de rol en React.  
+- **PokeAitor** 🔥 – API de Pokémon con un modal de estadísticas para cada criatura.  
+- **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.  
+- **Calorie-Counter** 🥗 – Aplicación en React para registrar comidas y calorías diarias, con animaciones dinámicas.  
+- **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
 
-- **PokeAitor**: API de Pokémon con un modal de estadísticas para cada criatura.
+### 📋 Productividad  
+- **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.  
+- **Personal Scheduler** 📆 – Planificador personal con gestión de eventos y almacenamiento en `localStorage`.  
 
-- **Rock-Paper-Scissors-JS**: Juego de piedra, papel y tijera en JavaScript Vanilla.
+### 🎵 Multimedia  
+- **Playlist-App** 🎶 – Aplicación full-stack para gestionar playlists, desarrollada con React, Node.js, Express y MongoDB.  
 
-- **PassCraft**: Generador de contraseñas seguras.
-
-- **Calorie-Counter**: Aplicación para registrar comidas y calorías diarias, desarrollada en React con animaciones dinámicas.
-
-- **Taskify**: Aplicación full-stack para gestionar notas (crear, editar y eliminar).
-
-- **Unit-Converter-React**: Conversor de unidades interactivo hecho con React.
-
-- **useState-Basic**: 5 Proyectos introductorios con useState para entender el estado en React.
-
-- **useState-Intermediate**: 5 Proyectos intermedios aplicando useState en distintos contextos.
-
-- **useState-Advanced**: 5 Proyectos avanzados demostrando el uso profundo de useState en React.
+### 🎓 Aprendizaje React  
+- **useState-Basic** ⚛ – 5 proyectos introductorios para entender el estado en React.  
+- **useState-Intermediate** ⚡ – 5 proyectos intermedios aplicando `useState` en distintos contextos.  
+- **useState-Advanced** 🔥 – 5 proyectos avanzados demostrando el uso profundo de `useState` en React.  
 
 
 ## 📫 Contacto
