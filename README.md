@@ -5,21 +5,18 @@
 
 ## 🚀 Habilidades y Tecnologías
 
-### 🌟 Frontend
+### 🌟 Frontend  
+🟡 **JavaScript (JS)** – Desarrollo dinámico e interactivo en el navegador.  
+🔵 **TypeScript** – Código tipado para mayor robustez y escalabilidad.  
+⚛ **React** – Creación de interfaces modernas y reactivas.  
+📄 **HTML** – Estructuración semántica de contenido web.  
+🎨 **CSS** – Estilos personalizados para un diseño atractivo.  
+💨 **Tailwind** – Framework de utilidad para diseño rápido y eficiente.  
 
-- **JavaScript (JS)**
-- **TypeScript**
-- **React**
-- **HTML**
-- **CSS**
-- **Tailwind**
-
-
-### 🌟 Backend
-
-- **NodeJs**
-- **Express**
-- **MongoDB**
+### 🌟 Backend  
+🌱 **Node.js** – Entorno de ejecución para construir servidores escalables.  
+🚀 **Express** – Framework ligero y rápido para APIs y servidores.  
+🍃 **MongoDB** – Base de datos NoSQL flexible y orientada a documentos.  
 
 
 ## 🥇 Proyectos Destacados
