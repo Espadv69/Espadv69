@@ -22,17 +22,17 @@
 ## 🥇 Proyectos Destacados
 
 ### 🎮 Juegos  
-- **TicTacToe_React** 🎲 – Juego de tres en raya desarrollado con React.  
 - **Memory-Match-Game** 🃏 – Juego de emparejamiento de cartas hecho con JavaScript Vanilla.  
 - **Rock-Paper-Scissors-JS** ✊✋✌ – Juego clásico de piedra, papel y tijera en JavaScript.  
+- **TicTacToe_React** 🎲 – Juego de tres en raya desarrollado con React.  
 
 ### 🚀 Aplicaciones Interactivas  
-- **Character-Creator** 🧝‍♂️ – Aplicación para crear y gestionar personajes de rol en React.  
 - **PokeAitor** 🔥 – API de Pokémon con un modal de estadísticas para cada criatura.  
-- **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.  
-- **Calorie-Counter** 🥗 – Aplicación en React para registrar comidas y calorías diarias, con animaciones dinámicas.  
-- **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
 - **GradientMagic** 🎨 – Generador de degradados con selector de colores y ajuste de ángulo en React.  
+- **Calorie-Counter** 🥗 – Aplicación en React para registrar comidas y calorías diarias, con animaciones dinámicas.  
+- **Character-Creator** 🧝‍♂️ – Aplicación para crear y gestionar personajes de rol en React.  
+- **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
+- **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.  
 
 ### 📋 Productividad  
 - **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.  
