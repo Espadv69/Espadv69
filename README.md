@@ -35,6 +35,7 @@
 - **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.  
 - **Calorie-Counter** 🥗 – Aplicación en React para registrar comidas y calorías diarias, con animaciones dinámicas.  
 - **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
+- **GradientMagic** 🎨 – Generador de degradados con selector de colores y ajuste de ángulo en React.  
 
 ### 📋 Productividad  
 - **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.  
