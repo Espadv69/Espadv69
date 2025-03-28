@@ -33,7 +33,7 @@
 - **Character-Creator** 🧝‍♂️ – Aplicación para crear y gestionar personajes de rol en React.  
 - **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
 - **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.
-- **PromisePlayground** 😄 - Aplicación en la que se muestran 3 funciones sin promise y otras 3 con promise. Luego se muestran las diferencias y como están hechas.  
+- **PromisePlayground** 😄 - Aplicación que compara tres funciones tradicionales con sus versiones basadas en Promises, mostrando las diferencias y su implementación.   
 
 ### 📋 Productividad  
 - **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.  
