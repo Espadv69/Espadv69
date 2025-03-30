@@ -36,7 +36,8 @@
 - **PromisePlayground** 😄 - Aplicación que compara tres funciones tradicionales con sus versiones basadas en Promises, mostrando las diferencias y su implementación.   
 
 ### 📋 Productividad  
-- **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.  
+- **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.
+- **UserManager-MERN** 👥 – Aplicación full-stack MERN que permite agregar usuarios a través de un formulario, ver la lista dinámicamente, editar detalles y eliminar usuarios.  
 
 ### 🎵 Multimedia  
 - **Playlist-App** 🎶 – Aplicación full-stack para gestionar playlists, desarrollada con React, Node.js, Express y MongoDB.  
