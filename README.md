@@ -58,6 +58,11 @@ Si deseas colaborar en un proyecto, hacerme una pregunta o simplemente conectar,
 
 # Test
 
-| Estadísticas Generales | Lenguajes Más Usados |
-|-----------------------|----------------------|
-| <a href="https://github.com/Espadv69"><img height=200 src="https://github-readme-stats.vercel.app/api?username=Espadv69&theme=radical&show_icons=true&border_color=7F3FBF&border_radius=10" /></a> | <a href="https://github.com/Espadv69"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Espadv69&layout=compact&langs_count=8&theme=merko&border_color=2ecc71&border_radius=10" /></a> |
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/Espadv69">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Espadv69&theme=radical&show_icons=true&border_color=7F3FBF&border_radius=10" />
+  </a>
+  <a href="https://github.com/Espadv69">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Espadv69&layout=compact&langs_count=8&theme=merko&border_color=2ecc71&border_radius=10" />
+  </a>
+</div>
