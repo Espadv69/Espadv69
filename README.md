@@ -1,57 +1,56 @@
-# 👋 ¡Hola! Soy Aitor, también conocido como Espadv.
+<h1 align="center">Hi there 👋, I'm Espadv69!</h1>
+<p align="center">
+ 🛠️ I build stuff on the web | 🔎 Always digging into new things | 📈 Preparing myself for what’s next
+</p>
 
-¡Bienvenido a mi GitHub! 🚀✨ Espero que encuentres algo interesante por aquí. Te deseo mucho éxito, aprendizaje y diversión en cada línea de código. ¡A programar! 💻🔥
+---
 
+### 🌱 About Me
 
-## 🚀 Habilidades y Tecnologías
+- 🧠 I code every day to sharpen my skills and prepare myself to contribute in a future tech team.
+- 🔭 Currently open to new opportunities and exciting projects.
+- 🌐 Focused on building fast, accessible, and user-friendly web applications.
 
-### 🌟 Frontend  
-🟡 **JavaScript (JS)** – Desarrollo dinámico e interactivo en el navegador.  
-🔵 **TypeScript** – Código tipado para mayor robustez y escalabilidad.  
-⚛ **React** – Creación de interfaces modernas y reactivas.  
-📄 **HTML** – Estructuración semántica de contenido web.  
-🎨 **CSS** – Estilos personalizados para un diseño atractivo.  
-💨 **Tailwind** – Framework de utilidad para diseño rápido y eficiente.  
+---
 
-### 🌟 Backend  
-🌱 **Node.js** – Entorno de ejecución para construir servidores escalables.  
-🚀 **Express** – Framework ligero y rápido para APIs y servidores.  
-🍃 **MongoDB** – Base de datos NoSQL flexible y orientada a documentos.  
+### 🛠 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb" />
+</p>
 
-## 🥇 Proyectos Destacados
+---
 
-### 🎮 Juegos  
-- **Memory-Match-Game** 🃏 – Juego de emparejamiento de cartas hecho con JavaScript Vanilla.  
-- **Rock-Paper-Scissors-JS** ✊✋✌ – Juego clásico de piedra, papel y tijera en JavaScript.  
-- **TicTacToe_React** 🎲 – Juego de tres en raya desarrollado con React.  
+### 📌 Pinned Projects
 
-### 🚀 Aplicaciones Interactivas  
-- **PokeAitor** 🔥 – API de Pokémon con un modal de estadísticas para cada criatura.  
-- **GradientMagic** 🎨 – Generador de degradados con selector de colores y ajuste de ángulo en React.  
-- **Calorie-Counter** 🥗 – Aplicación en React para registrar comidas y calorías diarias, con animaciones dinámicas.  
-- **Character-Creator** 🧝‍♂️ – Aplicación para crear y gestionar personajes de rol en React.  
-- **Unit-Converter-React** 🔄 – Conversor de unidades interactivo hecho con React.  
-- **PassCraft** 🔑 – Generador de contraseñas seguras con opciones de personalización.
-- **PromisePlayground** 😄 - Aplicación que compara tres funciones tradicionales con sus versiones basadas en Promises, mostrando las diferencias y su implementación.   
+> Check out my pinned repositories below 👇 — they reflect my growth and dedication as a developer.
 
-### 📋 Productividad  
-- **Taskify** 📝 – Aplicación full-stack para gestionar notas (crear, editar y eliminar) con React, Node.js, Express y MongoDB.
-- **UserManager-MERN** 👥 – Aplicación full-stack MERN que permite agregar usuarios a través de un formulario, ver la lista dinámicamente, editar detalles y eliminar usuarios.  
+---
 
-### 🎵 Multimedia  
-- **Playlist-App** 🎶 – Aplicación full-stack para gestionar playlists, desarrollada con React, Node.js, Express y MongoDB.  
+### 📊 GitHub Stats
 
-### 🎓 Aprendizaje React  
-- **useState-Basic** ⚛ – 5 proyectos introductorios para entender el estado en React.  
-- **useState-Intermediate** ⚡ – 5 proyectos intermedios aplicando `useState` en distintos contextos.  
-- **useState-Advanced** 🔥 – 5 proyectos avanzados demostrando el uso profundo de `useState` en React.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Espadv69&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Espadv69&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-## 📫 Contacto
+### 🧠 Fun Fact
 
-Si deseas colaborar en un proyecto, hacerme una pregunta o simplemente conectar, no dudes en ponerte en contacto conmigo:
+> I believe consistency beats talent when talent doesn't show up — that’s why I code every day.
 
-- **Email**: (aitorjob03@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/aitor-díaz-282a8a350)
-- **GitHub**: (https://github.com/Espadv69)
+---
+
+### 📬 Contact
+
+> Portfolio and socials coming soon... stay tuned!
+
+---
+
+<p align="center">
+  💖 Thanks for visiting my profile!
+</p>
