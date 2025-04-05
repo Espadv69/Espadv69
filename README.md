@@ -7,8 +7,6 @@
  <img src="bg.png" alt="background with some data about me" />
 </p>
 
----
-
 ### 🌱 About Me
 
 - 🧠 I code every day to sharpen my skills and prepare myself to contribute in a future tech team.
