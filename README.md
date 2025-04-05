@@ -31,8 +31,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Espadv69&theme=tokyonight" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69&layout=compact&theme=tokyonight" />
