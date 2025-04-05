@@ -58,5 +58,5 @@ Si deseas colaborar en un proyecto, hacerme una pregunta o simplemente conectar,
 
 # Test
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69)](https://github.com/Espadv69/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69&layout=compact)
 
