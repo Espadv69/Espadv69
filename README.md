@@ -3,6 +3,10 @@
  🛠️ I build stuff on the web | 🔎 Always digging into new things | 📈 Preparing myself for what’s next
 </p>
 
+<p align="center">
+ <img src="bg.png" alt="background with some data about me" />
+</p>
+
 ---
 
 ### 🌱 About Me
