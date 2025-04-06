@@ -36,11 +36,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Espadv69&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ---
 
 ### 🧠 Fun Fact
