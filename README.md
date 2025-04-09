@@ -33,9 +33,9 @@
 
 <p align="center">
 <!--   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Espadv69&theme=tokyonight" />   -->
- 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Espadv69&theme=tokyonight)
-  
+
+  ![Espadv69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Espadv69&count_private=true&show_icons=true&theme=tokyonight)
+
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espadv69&layout=compact&theme=tokyonight" />
 </p>
 
