@@ -9,7 +9,6 @@
 
 ### 🌱 About Me
 
-- 🧠 I code every day to sharpen my skills and prepare myself to contribute in a future tech team.
 - 🔭 Currently open to new opportunities and exciting projects.
 - 🌐 Focused on building fast, accessible, and user-friendly web applications.
 
